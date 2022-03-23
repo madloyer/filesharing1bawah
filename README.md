@@ -20,15 +20,15 @@
 ### Admin Commands
 
 ```
-/start - start the bot or get posts
+/start - mulai bot atau dapatkan postingan 
 
-/batch - create link for more than one posts
+/batch - buat link untuk lebih dari satu postingan
 
-/genlink - create link for one post
+/genlink - bua link untuk satu postingan
 
-/users - view bot statistics
+/users - lihat statistik bot
 
-/broadcast - broadcast any messages to bot users
+/broadcast - menyiarkan pesan apa pun ke pengguna bot
 ```
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
@@ -39,13 +39,6 @@
 * `{mention}` - Mention the user
 * `{username}` - Username   
    
-Report Bugs, Give Feature Requests There..   
-
-### Credits
-
-- Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
-- Our Support Group Members
-
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
