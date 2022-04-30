@@ -11,7 +11,7 @@
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skyy112/FileSharingV2)</br> 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OLLPROJECT/File-sharing-1-botom-)</br> 
 
 ### Admin Commands
 
@@ -38,7 +38,7 @@
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FileSharingV2](https://github.com/Skyy112/FileSharingV2/) adalah Perangkat Lunak Gratis: Anda dapat menggunakan, mempelajari, berbagi, dan meningkatkannya di
+[FileSharing1Bottom](https://github.com/OLLPROJECT/File-sharing-1-botom-) adalah Perangkat Lunak Gratis: Anda dapat menggunakan, mempelajari, berbagi, dan meningkatkannya di
 akan. Secara khusus Anda dapat mendistribusikan ulang dan/atau memodifikasinya di bawah ketentuan
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) sebagai
 diterbitkan oleh Free Software Foundation, baik versi 3 dari Lisensi, atau
