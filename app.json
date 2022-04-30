@@ -1,13 +1,13 @@
 {
-  "name": "FileSharingV2",
-  "description": "FileSharingV2 store posts and it can access by special links",
+  "name": "FileSharing1Bottom",
+  "description": "FileSharing1Bottom store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/Skyy112/FileSharingV2",
-  "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
+  "repository": "https://github.com/OLLPROJECT/File-sharing-1-botom-",
+  "logo": "https://telegra.ph/file/8b81dbd57c632c11cf6eb.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
@@ -15,7 +15,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "2019435633"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
